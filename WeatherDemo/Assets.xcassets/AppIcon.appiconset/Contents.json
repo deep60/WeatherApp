@@ -1,0 +1,14 @@
+{
+  "images" : [
+    {
+      "filename" : "pngfind.com-weather-icon-png-1323878 (1).png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
